@@ -1,0 +1,57 @@
+body {
+  height: 100%;
+  background: rgb(2, 73, 72);
+  background: -webkit-linear-gradient(210deg, rgb(2, 73, 72) 0%, rgb(0, 5, 5) 100%) rgb(5, 0, 0);
+  background:    -moz-linear-gradient(210deg, rgb(2, 73, 72) 0%, rgb(0, 5, 5) 100%) rgb(5, 0, 0);
+  background:      -o-linear-gradient(210deg, rgb(2, 73, 72) 0%, rgb(0, 5, 5) 100%) rgb(5, 0, 0);
+  background:     -ms-linear-gradient(210deg, rgb(2, 73, 72) 0%, rgb(0, 5, 5) 100%) rgb(5, 0, 0);
+  background:         linear-gradient(240deg, rgb(2, 73, 72) 0%, rgb(0, 5, 5) 100%) rgb(5, 0, 0);
+  background-repeat: no-repeat;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(239, 224, 1);
+}
+
+.container {
+  height: 418px;
+}
+
+.container .container {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 69.5833333333%;
+  margin-left: 15.20703%;
+}
+
+.image {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 819px;
+  height: auto;
+  margin: -405px 0 0 16%;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  margin-left: 1.14147%;
+  font-size: 1em;
+  color: rgb(239, 224, 1);
+}
+
+.container-1 {
+  width: 100%;
+  margin: 80px auto 0;
+}
+
+.text-1 {
+  margin-top: 359px;
+}
+
+.text-2 {
+  clear: both;
+  margin-top: 6px;
+}
